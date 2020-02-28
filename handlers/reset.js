@@ -3,7 +3,7 @@ function resetHandler() {
   // reset state to initial values
 
   // re-render UI with values saved in state
-
+  
   // log interaction: handler name, new state
   log.push({
     handler: 'reset',
